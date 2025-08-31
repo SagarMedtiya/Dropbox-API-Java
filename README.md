@@ -66,11 +66,11 @@ Dropbox Team Info:
 }
 ```
 
-🖼 **Screenshot**
+## 🖼 **Screenshot**
 
 Here’s the screenshot of the compiler/output:
+![Alt text](screenshot.png)
 
-(Add your IntelliJ/terminal screenshot and name it screenshot.png in the repo root.)
 
 🛠 **Dependencies**
 
