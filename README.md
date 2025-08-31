@@ -69,7 +69,7 @@ Dropbox Team Info:
 ## 🖼 **Screenshot**
 
 Here’s the screenshot of the compiler/output:
-![Alt text](screenshot.png)
+![Alt text](Screenshot/CloudEagle.png)
 
 
 🛠 **Dependencies**
